@@ -1,0 +1,97 @@
+================================================================================
+IV. THỜI KHÓA BIỂU
+================================================================================
+
+GIAI ĐOẠN 1: NỀN TẢNG (03 TUẦN)
+================================================================================
+
+Địa điểm: Trường Đại học VinUni | KĐT Vinhomes Ocean Park, Gia Lâm, Hà Nội
+
+LỊCH HỌC:
+
+Buổi sáng (9:00 - 13:00)
+   Nội dung: Học lý thuyết kết hợp thực hành có hướng dẫn
+   - Giảng dạy lý thuyết nền tảng
+   - Thực hành có hướng dẫn từ giảng viên
+   - Trả lời câu hỏi và giải đáp ngay
+
+Buổi chiều (14:00 - 18:00)
+   Nội dung: Thực hành lab / coding
+   - Thực hành trên máy tính
+   - Viết code và giải bài toán
+   - Làm quen với công cụ lập trình
+
+Buổi tối & cuối tuần
+   Nội dung: Phát triển dự án nhóm
+   - Nhóm từ 3 học viên
+   - Chọn đề bài và xây dựng dự án
+   - Dự án theo đề bài thực tế (trong 6 tuần)
+   - Hỗ trợ qua các kênh online: Discord, Zoom, GitHub
+
+---
+
+GIAI ĐOẠN 2: CHUYÊN SÂU THEO ĐỊNH HƯỚNG (03 TUẦN)
+================================================================================
+
+Địa điểm: Trường Đại học VinUni | KĐT Vinhomes Ocean Park, Gia Lâm, Hà Nội
+
+LỊCH HỌC:
+
+Buổi sáng (9:00 - 13:00)
+   Nội dung: Học lý thuyết và thực hành chuyên sâu theo track
+   - Lý thuyết chuyên sâu theo hướng đã chọn
+   - Thực hành nâng cao
+   - Tập trung vào một trong 3 hướng:
+     * P1: AI Business & Product
+     * P2: AI Infrastructure & Data
+     * P3: AI Application
+
+Buổi chiều, tối & cuối tuần
+   Nội dung: Phát triển dự án nhóm
+   - Nhóm từ 3 học viên
+   - Chọn đề bài và xây dựng dự án
+   - Dự án theo đề bài thực tế (trong 6 tuần)
+   - Hỗ trợ qua các kênh online: Discord, Zoom, GitHub
+
+---
+
+GIAI ĐOẠN 3: THỰC CHIẾN TẠI DOANH NGHIỆP (06 TUẦN)
+================================================================================
+
+LỊCH LÀM VIỆC:
+
+Học viên thực tập tại doanh nghiệp và thực hiện theo lịch làm việc của doanh nghiệp tiếp nhận.
+
+CHI TIẾT:
+- Làm việc theo giờ hành chính của công ty
+- Tuân thủ quy định của doanh nghiệp
+- Tham gia trực tiếp vào dự án AI thực tế
+- Có mentor hỗ trợ từ chương trình
+
+---
+
+CÁC LƯU Ý QUAN TRỌNG VỀ LỊCH HỌC
+================================================================================
+
+LƯU Ý 1: ĐIỀU CHỈNH LỊCH HỌC
+
+Tùy vào điều kiện thực tế, Ban Tổ chức (BTC) có thể:
+- Điều chỉnh lịch học phù hợp
+- Thông báo trước cho học viên
+- Đảm bảo tiến độ chương trình
+
+LƯU Ý 2: CÁC NGÀY NGHỈ LỄ
+
+Trong các dịp nghỉ lễ:
+- Ban Tổ chức sẽ có phương án sắp xếp lịch học linh hoạt
+- Nhằm đảm bảo tiến độ chương trình
+- Sẽ thông báo cụ thể tới học viên trong quá trình triển khai
+
+LƯU Ý 3: TUÂN THỦ THỜI GIAN
+
+Học viên cần:
+- Tới học/làm việc đúng giờ
+- Báo trước nếu bị trễ
+- Xin phép nếu không thể tham gia
+
+================================================================================

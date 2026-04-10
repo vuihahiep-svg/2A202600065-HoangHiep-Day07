@@ -1,0 +1,18 @@
+{
+    "fixed_size": {
+        "count": 44,
+        "avg_length": 247.9090909090909
+    },
+    "by_sentences": {
+        "count": 21,
+        "avg_length": 415.8095238095238
+    },
+    "recursive": {
+        "count": 52,
+        "avg_length": 166.46153846153845
+    },
+    "regex_pattern": {
+        "count": 31,
+        "avg_length": 280.6774193548387
+    }
+}

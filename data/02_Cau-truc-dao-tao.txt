@@ -1,0 +1,100 @@
+================================================================================
+II. CẤU TRÚC ĐÀO TẠO
+================================================================================
+
+TỔNG QUAN CHƯƠNG TRÌNH
+================================================================================
+
+Chương trình được thiết kế trong 12 tuần, triển khai theo hình thức toàn thời gian (full-time), 
+gồm 03 giai đoạn:
+
+GIAI ĐOẠN 1 (03 TUẦN): Xây dựng nền tảng toàn diện
+GIAI ĐOẠN 2 (03 TUẦN): Đào sâu theo định hướng chuyên môn
+GIAI ĐOẠN 3 (06 TUẦN): Thực chiến tại doanh nghiệp đối tác
+
+Trong suốt 06 tuần đầu tại Trường Đại học VinUni, ngoài giờ học chính, vào các buổi chiều, tối 
+và cuối tuần, học viên sẽ triển khai dự án mô phỏng theo bài toán thực tế, với hệ thống hỗ trợ 
+24/7 qua các nền tảng như Discord, Zoom và GitHub.
+
+Cấu trúc này giúp học viên phát triển theo lộ trình từ:
+nền tảng → chuyên sâu → triển khai mô phỏng → triển khai thực tiễn trong môi trường doanh nghiệp.
+
+---
+
+GIAI ĐOẠN 1: NỀN TẢNG (03 TUẦN)
+================================================================================
+
+Trong 03 tuần đầu, tất cả học viên sẽ được trang bị kiến thức và kỹ năng nền tảng thông qua 
+ba trụ cột chính:
+
+BA TRỤ CỘT CHÍNH:
+
+P1: AI Business & Product
+   - Tập trung vào khía cạnh kinh doanh và sản phẩm AI
+   - Cách ứng dụng AI trong kinh doanh
+   - Phát triển sản phẩm AI
+
+P2: AI Infrastructure & Data
+   - Tập trung vào cơ sở hạ tầng và dữ liệu
+   - Quản lý và xử lý dữ liệu lớn
+   - Xây dựng hạ tầng cho hệ thống AI
+
+P3: AI Application
+   - Tập trung vào ứng dụng AI
+   - Triển khai các mô hình AI
+   - Giải quyết bài toán thực tế bằng AI
+
+---
+
+GIAI ĐOẠN 2: CHUYÊN SÂU THEO ĐỊNH HƯỚNG (03 TUẦN)
+================================================================================
+
+Sau giai đoạn nền tảng, học viên sẽ lựa chọn một trong ba hướng chuyên sâu:
+
+LỰA CHỌN HỨ HƯỚNG:
+
+1. P1: AI Business & Product
+   - Đào sâu về kinh doanh AI
+   - Chiến lược sản phẩm AI
+   - Quản lý dự án AI
+
+2. P2: AI Infrastructure & Data
+   - Đào sâu về cơ sở hạ tầng AI
+   - Xử lý dữ liệu lớn
+   - Công nghệ backend cho AI
+
+3. P3: AI Application
+   - Đào sâu về ứng dụng thực tế
+   - Machine Learning và Deep Learning
+   - Computer Vision và NLP
+
+TIÊU CHÍ LỰA CHỌN:
+- Năng lực hiện tại của học viên
+- Định hướng phát triển cá nhân
+- Nhu cầu của doanh nghiệp đối tác
+
+---
+
+GIAI ĐOẠN 3: THỰC CHIẾN TẠI DOANH NGHIỆP (06 TUẦN)
+================================================================================
+
+Trong 06 tuần cuối, học viên sẽ tham gia thực chiến dự án tại doanh nghiệp:
+
+CÁC HOẠT ĐỘNG CHÍNH:
+
+1. Làm việc theo thời gian và môi trường thực tế của doanh nghiệp
+   - Tuân thủ lịch làm việc của doanh nghiệp
+   - Làm việc trong môi trường doanh nghiệp thực tế
+   - Hiểu rõ quy trình làm việc chuyên nghiệp
+
+2. Tham gia trực tiếp vào các dự án, áp dụng kiến thức và kỹ năng đã học
+   - Thực hiện các bài toán AI thực tế
+   - Áp dụng các kiến thức đã học từ giai đoạn 1 và 2
+   - Giải quyết các vấn đề thực tiễn trong dự án
+
+3. Phát triển năng lực làm việc chuyên nghiệp và giải quyết vấn đề trong bối cảnh thực
+   - Rèn luyện kỹ năng làm việc nhóm
+   - Phát triển kỹ năng giao tiếp
+   - Nâng cao khả năng giải quyết vấn đề thực tế
+
+================================================================================

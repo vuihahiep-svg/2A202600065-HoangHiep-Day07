@@ -1,0 +1,201 @@
+================================================================================
+VII. CÁC DỊCH VỤ TIỆN ÍCH
+================================================================================
+
+Trong suốt thời gian tham gia chương trình, học viên được tiếp cận và sử dụng các dịch vụ, tiện 
+ích tại VinUni nhằm hỗ trợ tối đa cho việc học tập và sinh hoạt.
+
+---
+
+1. PHÒNG HỌC
+================================================================================
+
+TỔNG QUAN
+
+Chương trình sử dụng các phòng học cố định, bao gồm các phòng học ở Nhà C và nhà E nằm trong 
+khuôn viên của Trường Đại học VinUni. Các phòng học được thiết kế và trang bị hiện đại, phù hợp 
+cho các hoạt động của chương trình.
+
+---
+
+PHÒNG C401
+
+Sức chứa: 236 người
+
+Cơ sở vật chất:
+- 33 bàn tròn
+- 202 ghế ngồi (có giỏ tích hợp bên dưới để đựng đồ)
+- 06 máy chiếu
+
+Đặc điểm:
+- Thiết kế hình tròn phù hợp cho thảo luận nhóm
+- Ánh sáng tự nhiên tốt
+- Hệ thống âm thanh hiện đại
+- Có không gian thư giãn
+
+---
+
+PHÒNG E402 VÀ E403
+
+Sức chứa: 96 - 233 người
+
+Cơ sở vật chất:
+- Bàn kích thước 1,6 x 0,6m
+- Ghế đào tạo
+- 02 máy chiếu
+- 01 TV
+
+Đặc điểm:
+- Phù hợp cho giảng dạy truyền thống
+- Sắp xếp bàn ghế linh hoạt
+- Không gian rộng rãi
+- Thích hợp cho các buổi thực hành
+
+---
+
+2. KẾT NỐI INTERNET (WI-FI)
+================================================================================
+
+HỆ THỐNG WI-FI CHUNG
+
+Học viên được cung cấp hệ thống wifi trong khuôn viên trường với tốc độ ổn định.
+
+ĐƯỜNG TRUYỀN RIÊNG CHO CHƯƠNG TRÌNH AI
+
+Chương trình sẽ bố trí đường truyền riêng dành cho học viên AI nhằm:
+- Đảm bảo tốc độ cao
+- Đảm bảo chất lượng kết nối
+- Hỗ trợ các hoạt động học tập yêu cầu băng thông lớn
+- Hỗ trợ các hoạt động nghiên cứu
+
+CÔNG NGHỆ:
+- Wi-Fi 5 (802.11ac) hoặc cao hơn
+- Tốc độ tối thiểu: 100 Mbps
+- Hỗ trợ kết nối cùng lúc nhiều thiết bị
+
+---
+
+3. THƯ VIỆN
+================================================================================
+
+DỊCH VỤ THƯ VIỆN
+
+Học viên được sử dụng:
+
+1. Không gian tự học tại thư viện
+   - Phòng học yên tĩnh
+   - Bàn ghế thoải mái
+   - Ánh sáng tốt
+   - Có khu vực nhóm học
+
+2. Hệ thống tài liệu và cơ sở dữ liệu trực tuyến
+   - Sách điện tử
+   - Tạp chí khoa học
+   - Cơ sở dữ liệu học thuật
+   - Tài liệu về AI
+   - Hướng dẫn sử dụng công cụ
+
+BUỔI ĐỊNH HƯỚNG
+
+Lưu ý: Thư viện sẽ tổ chức buổi định hướng (orientation) trong Lễ Khai giảng nhằm:
+- Hướng dẫn học viên khai thác hiệu quả các nguồn tài nguyên học thuật
+- Giới thiệu về các cơ sở dữ liệu có sẵn
+- Tập huấn sử dụng hệ thống tìm kiếm
+- Trả lời các câu hỏi về dịch vụ
+
+---
+
+4. MÃ HỌC VIÊN - THẺ HỌC VIÊN
+================================================================================
+
+CẤP PHÁT
+
+Mỗi học viên được cấp:
+- 01 mã học viên (số hiệu)
+- 01 thẻ học viên (thẻ cứng với thông tin cá nhân)
+
+CÔNG DỤNG CỦA MÃ VÀ THẺ HỌC VIÊN
+
+1. Ra/vào khuôn viên trường
+   - Sử dụng thẻ để quét ra vào cổng
+   - Ghi nhận chuyên cần
+   - Kiểm soát an ninh
+
+2. Truy cập phòng học và các khu vực chức năng
+   - Mở các cửa phòng học được phân công
+   - Truy cập thư viện
+   - Vào khu vực thực hành
+
+3. Sử dụng các tiện ích chung theo quy định của Nhà trường
+   - Sử dụng dịch vụ canteen
+   - Sử dụng các cơ sở thể dục
+   - Tham gia các hoạt động của nhà trường
+
+---
+
+5. DỊCH VỤ ĂN UỐNG, CANTEEN
+================================================================================
+
+TỔNG QUAN
+
+Học viên có thể sử dụng các dịch vụ ăn uống trong khuôn viên trường cho nhu cầu sinh hoạt hằng 
+ngày.
+
+CÁC CƠ SỞ ĂN UỐNG
+
+1. Hệ thống Canteen
+   - Thức ăn đa dạng, phù hợp nhiều khẩu vị
+   - Giá cả hợp lý
+   - Vệ sinh an toàn
+   - Nhân viên phục vụ chuyên nghiệp
+
+2. Các cửa hàng tiện ích
+   - Highlands Coffee: Cà phê, đồ ăn nhẹ
+   - Fresh Garden: Nước ép, salad, đồ ăn lành mạnh
+   - v.v.
+
+GIỜ PHỤC VỤ
+
+- Sáng: 7:00 - 11:00
+- Trưa: 11:00 - 14:00
+- Chiều: 14:00 - 18:00
+- Tối: 18:00 - 20:00 (nếu có)
+
+LƯU Ý: Giờ phục vụ có thể thay đổi theo mùa và ngày lễ.
+
+---
+
+6. KHU VỰC ĐỖ XE VÀ SẠC XE ĐIỆN
+================================================================================
+
+KHOANG ĐỖ XE
+
+Nhà trường bố trí khu vực đỗ xe riêng cho học viên chương trình:
+- Đỗ xe máy: Khu vực riêng, an toàn
+- Đỗ ô tô: Nếu có nhu cầu, liên hệ Ban Tổ chức
+- Quản lý bảo vệ 24/7
+
+---
+
+TRẠM SẠC XE ĐIỆN
+
+Đối với học viên sử dụng xe điện (xe máy điện, ô tô điện):
+
+HỆ THỐNG TRẠM SẠC:
+- Nhà trường cung cấp hệ thống trạm sạc miễn phí trong khuôn viên
+- Có nhiều trạm sạc phân bố khắp khu vực
+- Thời gian sạc: 1-3 giờ tùy loại xe
+- Miễn phí hoàn toàn cho học viên
+
+LỢI ÍCH:
+- Đáp ứng nhu cầu di chuyển của học viên
+- Thúc đẩy lối sống xanh
+- Ưu tiên sử dụng phương tiện giao thông thân thiện với môi trường
+- Giảm chi phí di chuyển cho học viên
+
+HƯỚNG DẪN SỬ DỤNG:
+- Liên hệ Ban Tổ chức để được hướng dẫn sử dụng
+- Ghi danh đăng ký nếu cần
+- Thực hiện theo quy định an toàn
+
+================================================================================

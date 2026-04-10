@@ -1,0 +1,74 @@
+================================================================================
+V. ĐÁNH GIÁ QUÁSI TRÌNH HỌC TẬP
+================================================================================
+
+TIÊU CHÍ ĐÁNH GIÁ HỌC VIÊN
+================================================================================
+
+Học viên sẽ được đánh giá dựa trên 5 thành phần chính:
+
+1. ĐIỂM BÀI THỰC HÀNH LABS HÀNG NGÀY (TUẦN 1-6)
+   - Đánh giá: Hàng ngày trong quá trình học
+   - Nội dung: Các bài lab, bài tập thực hành
+   - Thang điểm: Theo quy định của chương trình
+   - Tầm quan trọng: Cơ sở để đánh giá kiến thức nền tảng
+
+2. ĐIỂM QUÁ TRÌNH VÀ KẾT QUẢ DỰ ÁN #BUILD (TUẦN 1-6)
+   - Đánh giá: Quá trình phát triển dự án
+   - Nội dung: 
+     * Tiến độ dự án
+     * Chất lượng code
+     * Tính sáng tạo và giải quyết vấn đề
+   - Tầm quan trọng: Đánh giá khả năng áp dụng vào dự án thực tế
+
+3. ĐIỂM THI GIỮA KỲ (TUẦN THỨ 6)
+   - Thời điểm: Cuối tuần 6
+   - Nội dung: Kiểm tra toàn bộ kiến thức 6 tuần đầu
+   - Hình thức: Bài thi viết hoặc bài tập thực hành
+   - Tầm quan trọng: Đánh giá tổng hợp kiến thức giai đoạn 1 và 2
+
+4. ĐIỂM QUÁ TRÌNH THỰC CHIẾN TẠI DOANH NGHIỆP
+   - Đánh giá: Suốt 6 tuần thực chiến
+   - Nội dung:
+     * Năng lực chuyên môn
+     * Chất lượng công việc
+     * Đóng góp cho dự án
+     * Phát triển kỹ năng chuyên nghiệp
+   - Người đánh giá: Mentor tại doanh nghiệp và giảng viên
+   - Tầm quan trọng: Đánh giá khả năng thực chiến trong doanh nghiệp
+
+5. ĐIỂM CHUYÊN CẦN VÀ THÁI ĐỘ
+   - Đánh giá: Suốt 12 tuần
+   - Nội dung:
+     * Tham dự đầy đủ các buổi học
+     * Tác phong làm việc
+     * Thái độ với công việc và đồng nghiệp
+     * Chủ động học hỏi
+     * Tinh thần hợp tác
+   - Tầm quan trọng: Phản ánh tính cách chuyên nghiệp
+
+---
+
+TÍNH ĐIỂM VÀ TRỌNG SỐ
+================================================================================
+
+Các tiêu chí trên sẽ được kết hợp với các trọng số khác nhau:
+- Kiến thức nền tảng: Trọng số nhất định
+- Dự án và áp dụng: Trọng số nhất định
+- Thực chiến: Trọng số nhất định
+- Chuyên cần: Trọng số nhất định
+
+LƯU Ý: Chi tiết về trọng số và cách tính sẽ được thông báo trong quá trình triển khai chương trình.
+
+---
+
+SỬ DỤNG HỆ THỐNG LEARNWORLDS ĐỂ THEO DÕI ĐÁNH GIÁ
+================================================================================
+
+Học viên có thể:
+- Truy cập kết quả đánh giá trên LearnWorlds
+- Theo dõi tiến độ học tập
+- Xem nhận xét từ giảng viên
+- So sánh với tiêu chuẩn
+
+================================================================================

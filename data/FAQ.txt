@@ -1,0 +1,448 @@
+================================================================================
+IX. CÂU HỎI THƯỜNG GẶP (FAQ)
+================================================================================
+
+1. CHƯƠNG TRÌNH TẬP TRUNG VÀO LĨNH VỰC NÀO (AI, CV, NLP, DATA....)?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+Chương trình bao gồm 03 hướng chính:
+
+1. AI Business and Product
+   - Ứng dụng AI trong kinh doanh
+   - Phát triển sản phẩm AI
+   - Quản lý dự án AI
+   - Kỹ năng bán hàng sản phẩm AI
+
+2. AI and Data Infrastructure
+   - Cơ sở hạ tầng cho AI
+   - Xử lý dữ liệu lớn (Big Data)
+   - Quản lý dữ liệu
+   - Công nghệ backend
+
+3. AI Applications
+   - Ứng dụng thực tế của AI
+   - Machine Learning
+   - Deep Learning
+   - Computer Vision (CV)
+   - Natural Language Processing (NLP)
+   - Các ứng dụng khác
+
+---
+
+2. HỌC VIÊN CÓ ĐƯỢC HỌC LẠI KIẾN THỨC NỀN KHÔNG?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+KHÔNG. Chương trình không bao gồm kiến thức nền tảng cơ bản.
+
+LÝ DO:
+- Chương trình tập trung vào đào tạo các kiến thức và kỹ năng AI phục vụ làm dự án thực tế
+- Giả định rằng học viên đã có kiến thức nền tảng (Toán học, Lập trình, v.v.)
+- Thời gian quý giá được dùng để học các kiến thức AI nâng cao
+
+HỌC VIÊN CÓ THỂ:
+- Tự ôn tập các kiến thức nền tảng từ các nguồn uy tín khác
+- Tìm kiếm các khóa học online miễn phí
+- Hỏi mentor nếu gặp khó khăn
+
+KIẾN THỨC CÓ THỂ CẦN:
+- Python cơ bản (biến, vòng lặp, hàm)
+- Toán học cơ bản (đại số, xác suất, thống kê)
+- Hiểu biết cơ bản về máy tính
+
+---
+
+3. CHƯƠNG TRÌNH DAY TRỰC TIẾP HAY ONLINE?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+TRỰC TIẾP. Học viên học trực tiếp tại lớp.
+
+ĐỊNH HƯỚNG CỦA CHƯƠNG TRÌNH:
+- Chương trình ưu tiên học trực tiếp
+- Ưu tiên thực hành thực tế
+- Không hỗ trợ hình thức học online
+
+PHI TIÊU THAY ĐỔI:
+- Nếu có sự thay đổi, Ban Tổ chức sẽ thông báo cho học viên trước
+- Ví dụ: Phòng chống dịch bệnh, tai nạn bất khả kháng
+
+TÀI NGUYÊN ONLINE:
+- Mặc dù học trực tiếp, có các tài liệu online hỗ trợ trên LearnWorlds
+- Hỗ trợ 24/7 qua Discord, Zoom, GitHub
+- Không phải để học viên học online mà để hỗ trợ thêm
+
+---
+
+4. HỌC VIÊN CÓ ĐƯỢC NGHỈ CUỐI TUẦN KHÔNG?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+CÓ ĐỘ TỰ DO NHẤT ĐỊNH, NHƯNG CÓ HOẠT ĐỘNG BẮTBUỘC.
+
+CHI TIẾT:
+
+Học viên tham gia các hoạt động học tập chính khóa từ thứ Hai đến thứ Sáu
+- Giờ sáng: 9:00 - 13:00
+- Giờ chiều: 14:00 - 18:00
+- Không có class chính khóa vào cuối tuần
+
+Vào cuối tuần, học viên tiếp tục phát triển dự án theo nhóm
+- Với sự hỗ trợ online từ giảng viên và mentors
+- Không bắt buộc đi vào trường
+- Có thể làm việc từ nhà
+- Nhưng cần hoàn thành các mục tiêu được giao
+
+CÓ THỂNGHỈ NGƠI:
+- Ngành cuối tuần thường có thời gian rảnh hơn
+- Nhưng cần dành thời gian cho dự án
+
+---
+
+5. QUY TRÌNH XIN NGHỈ PHÉP NHƯ THẾ NÀO?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+QUY TRÌNH BA BƯỚC:
+
+BƯỚC 1: THÔNG BÁO TRƯỚC
+- Liên hệ Ban Tổ chức (BTC) hoặc Mentor
+- Thông báo càng sớm càng tốt
+- Tối thiểu: 1 ngày trước
+
+BƯỚC 2: NÊU RÕ LÝ DO VÀ THỜI GIAN
+- Lý do cụ thể (bệnh, việc gia đình, v.v.)
+- Thời gian vắng mặt (từ ngày nào đến ngày nào)
+- Số buổi dự kiến vắng
+
+BƯỚC 3: ĐƯỢC XÁC NHẬN
+- Phải có xác nhận từ giảng viên/mentor/BTC TRƯỚC KHI vắng
+- Không xin vắng sau khi đã vắng
+- Có thể yêu cầu giấy tờ chứng thực (đơn bệnh viện, v.v.)
+
+---
+
+6. SINH VIÊN NĂM 3, 4 CÒN LỊCH HỌC TRÊN TRƯỜNG CÓ THAM GIA ĐƯỢC KHÔNG?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+CÓ THỂ THAM GIA NẾU:
+
+ĐIỀU KIỆN:
+- Sắp xếp được thời gian học
+- Cam kết gần như toàn thời gian trong suốt chương trình
+- Không xung đột với lịch học trên trường
+
+TRÁCH NHIỆM:
+- Khi tham gia, học viên cần đảm bảo:
+  * Thực hiện theo Thời khóa biểu chính thức
+  * Tuân thủ chính sách của chương trình
+  * Không để chương trình ảnh hưởng đến học tập trên trường
+  * Không để học trên trường ảnh hưởng đến chương trình
+
+LƯU Ý:
+- Nếu không sắp xếp được thời gian, không nên tham gia
+- Lợi bán lợi, vừa thực chiến vừa học bình thường rất khó
+- Cần tính toán thực tế
+
+---
+
+7. CÓ THỂ VỪA ĐI LÀM VỪA THAM GIA KHÔNG?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+KHÔNG KHUYẾN KHÍCH.
+
+LÝ DO:
+
+1. MỨC ĐỘ CAM KẾT CAO
+   - Chương trình yêu cầu mức độ cam kết cao
+   - Tương đương một công việc toàn thời gian
+   - Không thể chia sẻ tập trung lực
+
+2. LỊCH HỌC CHẶT
+   - 4 buổi/ngày (sáng, chiều, tối, cuối tuần)
+   - Không có thời gian cho công việc khác
+   - Cũng không công bằng với học viên khác
+
+3. CHẤT LƯỢNG HỌC TẬP
+   - Vừa học vừa làm sẽ giảm chất lượng cả hai
+   - Không thể phát huy tối đa tiềm năng
+   - Dễ lâm vào tình trạng mệt mỏi, suy sụp
+
+KHUYÊN:
+- Hãy tập trung toàn bộ vào chương trình 12 tuần
+- Sau đó có thể tìm việc hoặc quay lại công việc cũ
+
+---
+
+8. HỌC VIÊN CẦN TỰ MANG LAPTOP HAY SỬ DỤNG MÁY TÍNH CỦA NHÀ TRƯỜNG?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+TỰ CHUẨN BỊ. Học viên cần tự chuẩn bị máy tính (laptop) để phục vụ việc học tập và thực tập.
+
+LÝ DO:
+- Máy tính là công cụ cá nhân
+- Cần quen thuộc với máy của mình
+- Sẽ sử dụng cả trong và ngoài giờ học
+
+CẤU HÌNH TỐI THIỂU ĐỀ NGHỊ:
+
+1. CPU (Bộ xử lý)
+   - Intel Core i7 (thế hệ 8 trở lên)
+   - HOẶC Apple M2 hoặc tương đương
+   - HOẶC CPU cao cấp hơn
+
+2. RAM (Bộ nhớ)
+   - Tối thiểu: 16GB
+   - Lý do: Khi học AI thường mở cùng lúc:
+     * VS Code / PyCharm (IDE lập trình)
+     * Jupyter Notebook (viết code)
+     * Browser với nhiều tab
+     * Tài liệu
+     * Zoom (nếu học online)
+     * Môi trường Python hoặc Docker
+   - Nếu dưới 16GB sẽ chậm và lag
+
+3. Ổ cứng SSD
+   - Tối thiểu: 256GB
+   - Vì sao:
+     * Dataset (dữ liệu) có thể chiếm 5-10GB
+     * Python packages (thư viện) chiếm 2-5GB
+     * Model files (mô hình đã train) chiếm 1-5GB
+     * Docker images (ảnh ảo) chiếm 5-10GB
+     * OS + chương trình khác: 50GB
+
+4. Hệ điều hành
+   - Windows 10/11
+   - HOẶC macOS
+   - HOẶC Linux
+
+5. Kết nối mạng
+   - Ổn định để học online
+   - Đủ tốc độ để đồng bộ dữ liệu
+   - Hỗ trợ sử dụng các nền tảng AI/cloud
+
+LƯU Ý:
+- Chương trình không bắt buộc máy quá mạnh
+- Vì nhiều nội dung có thể chạy trên môi trường cloud
+- Hoặc tài nguyên do chương trình hỗ trợ
+- Nhưng cấu hình trên là tối thiểu để học ổn định
+
+---
+
+9. HỌC VIÊN CÓ ĐƯỢC CHIA LỚP THEO TRÌNH ĐỘ KHÔNG?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+KHÔNG, không chia lớp theo trình độ trong giai đoạn 1 và 2.
+
+LÝ DO:
+
+1. ĐẢM BẢO NỀN TẢNG CHUNG
+   - Tất cả học viên cần có nền tảng chung
+   - Không ai bị bỏ lại
+
+2. ĐỊNH HƯỚNG THỐNG NHẤT
+   - Tất cả học viên bắt đầu từ cùng một điểm
+   - Hiểu rõ hướng đi chung của chương trình
+
+3. TẠO ĐỘNG LỰC HỌC TẬP
+   - Học viên yếu hơn được khích lệ bởi những người giỏi hơn
+   - Học viên giỏi được thúc đẩy để giúp đỡ người khác
+
+GIAI ĐOẠN 2:
+- Sau đó (giai đoạn 2), học viên lựa chọn theo hướng chuyên sâu
+- Lúc này sẽ có phân nhóm theo từng hướng
+
+---
+
+10. GIAI ĐOẠN THỰC TẬP HỌC VIÊN CÓ ĐƯỢC TỰ CHỌN NƠI THỰC TẬP HAY ĐƯỢC PHÂN CÔNG?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+CẢ HAI. Cộng tác. Học viên sẽ được hướng dẫn trong quá trình đào tạo.
+
+CHI TIẾT:
+
+1. XIN CẢU:
+   - Học viên có thể nêu sở thích
+   - Ví dụ: "Tôi muốn học về NLP"
+   - Hoặc: "Tôi muốn ở Hà Nội"
+
+2. HƯỚNG DẪN:
+   - Ban Tổ chức sẽ giải thích các lựa chọn
+   - Hướng dẫn học viên cân nhân
+   - Giúp sắp xếp thích hợp
+
+3. PHÂN CÔNG:
+   - Ban Tổ chức phân công dựa trên:
+     * Sở thích của học viên
+     * Năng lực của học viên
+     * Nhu cầu của doanh nghiệp
+     * Cân bằng khối lượng
+
+4. KHÔNG ĐẢM BẢO:
+   - Chương trình không đảm bảo 100% đáp ứng sở thích cá nhân
+   - Phải xem xét toàn bộ chương trình
+
+---
+
+11. HỌC VIÊN CÓ ĐƯỢC ĐÓNG DẤU THỰC TẬP TẠI CÔNG TY THỰC TẬP KHÔNG?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+CÓ. Có thể hỗ trợ xác nhận hoặc đóng dấu.
+
+HÌNH THỨC:
+- Xác nhận tham gia
+- Chứng nhận hoàn thành
+
+ĐIỀU KIỆN:
+- Tùy theo yêu cầu cụ thể của học viên
+- Doanh nghiệp sẽ cấp, chương trình sẽ hỗ trợ xác nhận
+
+CÁCH YÊU CẦU:
+- Liên hệ Ban Tổ chức
+- Nêu rõ nhu cầu
+- Chuẩn bị giấy tờ cần thiết
+
+---
+
+12. HỌC VIÊN CÓ THỂ THỰC TẬP TẠI TP. HỒ CHÍ MINH VÀ GẦN NƠI Ở KHÔNG?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+TÙY THEO DỰ ÁN VÀ ĐỐI TÁC TỪNG THỜI ĐIỂM.
+
+CHI TIẾT:
+
+1. KHÔNG ĐẢM BẢO CHẮC CHẮN
+   - Chương trình không thể cam kết 100% thực tập gần nhà
+   - Tùy thuộc vào nhu cầu công việc
+
+2. SẼ ĐƯỢC CÂN NHẮC
+   - Nếu có điều kiện phù hợp
+   - Chương trình sẽ cân nhắc sắp xếp gần nơi ở
+
+3. TIÊU CHÍ CÂN NHẮC:
+   - Nhu cầu doanh nghiệp
+   - Năng lực và sở thích học viên
+   - Tính khả thi về logistics
+   - Sự phân bổ công bằng giữa tất cả học viên
+
+HỨA:
+- Liên hệ Ban Tổ chức nếu có nhu cầu đặc biệt
+- Sớm thông báo càng tốt
+- Sẽ cố gắng sắp xếp nếu có thể
+
+---
+
+13. CHƯƠNG TRÌNH CÓ HỖ TRỢ CHI PHÍ ĐI LẠI KHÔNG?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+KHÔNG. Hiện tại chương trình không hỗ trợ chi phí đi lại và ăn ở.
+
+TRÁCH NHIỆM CỦA HỌC VIÊN:
+- Học viên chủ động sắp xếp các chi phí sinh hoạt
+- Trong suốt thời gian tham gia chương trình (12 tuần)
+
+HỖ TRỢ ĐƯỢC:
+- 100% học phí
+- 8 triệu VND/tháng trợ cấp
+
+KHÔNG HỖ TRỢ:
+- Tiền ăn
+- Tiền ở
+- Tiền xăng xe
+- Các chi phí sinh hoạt khác
+
+KHUYÊN:
+- Tính toán chi phí trước khi nộp đơn
+- Có đủ kinh phí để sống qua 12 tuần
+
+---
+
+14. HỌC VIÊN CÓ ĐƯỢC HỌC NÂNG CAO SAU KHÓA HỌC KHÔNG?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+CÓ DỰ KIẾN. Dành cho học viên xuất sắc.
+
+CHI TIẾT:
+
+1. ĐỐI TƯỢNG
+   - Học viên được đánh giá XUẤ SẮC
+   - Không phải tất cả học viên
+
+2. LOẠI KHÓA HỌC NÂNG CAO
+   - Công nghệ mới
+   - Lĩnh vực chuyên sâu
+   - Kỹ năng nâng cao
+
+3. THÔNG TIN CỤ THỂ
+   - Dự kiến là có
+   - Nhưng thông tin cụ thể Ban Tổ chức sẽ thông báo sau
+   - Không nên dựa vào điều này khi quyết định
+
+---
+
+15. CƠ HỘI NGHỀ NGHIỆP SAU KHI THAM DỰ CHƯƠNG TRÌNH?
+================================================================================
+
+TRƯỜNG TRẢ LỜI:
+
+CÓ NHIỀU CƠHỘII HỌC TẬP VÀ PHÁT TRIỂN NGHỀ NGHIỆP.
+
+CÁC CƠHỘII:
+
+1. TIẾP TỤC HỌC TẬP NÂNG CAO
+   - Ứng tuyển vào các chương trình Thạc sĩ (MSc)
+   - Hoặc Tiến sĩ (PhD) tại VinUni
+   - Điều kiện: Có thành tích học tập tốt
+
+2. THAM GIA NGHIÊN CỨU
+   - Ứng tuyển vị trí Trợ lý Nghiên cứu (Research Assistant – RA)
+   - Tại các trung tâm nghiên cứu
+   - Điều kiện: Quan tâm đến nghiên cứu
+
+3. PHÁT TRIỂN TRONG MÔI TRƯỜNG DOANH NGHIỆP
+   - Đối với học viên có thành tích XUẤ SẮC
+   - Có cơ hội tiếp tục tham gia các dự án thực tế
+   - Tại các doanh nghiệp đối tác của chương trình
+   - Với mức lương hấp dẫn
+
+TIÊU CHÍ LỰA CHỌN:
+- Kết quả học tập
+- Năng lực thể hiện trong quá trình tham gia dự án
+- Nhu cầu tuyển dụng của các đơn vị liên quan
+
+PHÂN CÔNG TRACK:
+- Từ tuần 4 đến tuần 6
+- Học viên sẽ được phân vào các nhóm/track chuyên sâu
+- Theo định hướng đã công bố
+
+PHÂN CÔNG THỰC CHIẾN:
+- Trong 06 tuần cuối
+- Học viên sẽ được phân công tham gia thực tập
+- Tại các doanh nghiệp đối tác
+- Phù hợp với năng lực và định hướng phát triển cá nhân
+
+================================================================================

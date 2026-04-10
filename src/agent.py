@@ -1,7 +1,5 @@
 from typing import Callable
-
 from .store import EmbeddingStore
-
 
 class KnowledgeBaseAgent:
     """
@@ -14,9 +12,15 @@ class KnowledgeBaseAgent:
     """
 
     def __init__(self, store: EmbeddingStore, llm_fn: Callable[[str], str]) -> None:
-        # TODO: store references to store and llm_fn
-        pass
+        self.store = store
+        self.llm_fn = llm_fn
 
     def answer(self, question: str, top_k: int = 3) -> str:
-        # TODO: retrieve chunks, build prompt, call llm_fn
-        raise NotImplementedError("Implement KnowledgeBaseAgent.answer")
+        """Retrieves relevant context from the store and answers using the LLM."""
+        results = self.store.search(question, top_k=top_k)
+        if not results:
+            return "No context found."
+            
+        context = "\n".join([r["content"] for r in results])
+        prompt = f"Context: {context}\nQuestion: {question}\nAnswer:"
+        return self.llm_fn(prompt)
